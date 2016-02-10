@@ -3,7 +3,7 @@ public class HelloChurch {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello Ayanda");
+		System.out.println("Hello Ayanda Khaka");
 	}
 
 }
