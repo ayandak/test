@@ -4,7 +4,7 @@ public class HelloChurch {
 		int a = 5;
 		int b = 5;
 		int sum = a+b;
-		System.out.println("sum is equal " + sum);
+		System.out.println("This is a develop branch");
 		if(sum==10){
 			System.out.println("sum is equal 10");
 		}
