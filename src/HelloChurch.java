@@ -6,7 +6,7 @@ public class HelloChurch {
 		int sum = a+b;
 		System.out.println("sum is " + sum);
 		if(sum==10){
-			System.out.println("sum is 10");
+			System.out.println("sum is equal 10");
 		}
 	}
 
