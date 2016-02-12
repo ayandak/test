@@ -4,7 +4,7 @@ public class HelloChurch {
 		int a = 5;
 		int b = 5;
 		int sum = a+b;
-		System.out.println("This is where i did the changes");
+		System.out.println("This is where i did the changes and i made anothe changes");
 		if(sum==10){
 			System.out.println("sum is equal 10");
 		}
