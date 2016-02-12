@@ -1,7 +1,7 @@
 
 public class HelloChurch {
 	public static void add() {
-		int a = 5;
+		int a = 8;
 		int b = 5;
 		int sum = a+b;
 		System.out.println("This is where i did the changes and i made anothe changes");
