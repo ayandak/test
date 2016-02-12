@@ -3,7 +3,7 @@ public class GitIgnoreExample {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("This git ignore first code");
+		System.out.println("This git ignore second code");
 	}
 
 }
